@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.ritmo.coach",
+      "sha256_cert_fingerprints": [
+        "90:A8:F5:64:6D:75:6C:5D:EC:81:C3:09:3E:45:D8:EC:02:9F:DA:62:BB:CF:8F:C6:AD:41:57:BE:0D:23:37:1A"
+      ]
+    }
+  }
+]
